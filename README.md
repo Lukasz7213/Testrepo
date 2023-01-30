@@ -29,4 +29,4 @@ strony głównej. Wprowadzić zmiany do repozytorium i nadać im etykietę
 'doxpage'.
 
 7. Utworzyć nową gałąź 'hotfix' i wprowadzić do niej deklarację
-i definicję klasy 'ErrorHandle'.
+i definicję klasy 'Errkjgbjhb
